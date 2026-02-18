@@ -35,6 +35,16 @@ allerdings automatisch übernommen. Um die Tabellen nach Bearbeitungen zu aktual
 Kategorie, die sortiert werden soll. Beim Exportieren wird die aktuelle Sortierung verwendet. Um die exportierte CSV in Excel zu öffnen, folgt gerne dieser Anleitung: https://www.hesa.ac.uk/support/user-guides/import-csv. Es können theoretisch auch Online-Converter
 verwendet werden, beachtet dabei, dass dabei die Datenbank mit Daten an den Anbieter und eventuell auch an Dritte weitergegeben werden.
 
+## GEPLANTE FEATURES
+
+gehosteter Server (von Schule?), damit alle gemeinsam daran arbeiten können
+
+extra Seiten, wo für die 3 Tage Schichten/Räume eingetragen werden können
+
+extra Seite, wo Abgabedaten eingetragen werden können
+
+extra Seite, wo ...
+
 ## ANDERES
 
 ### INSTALLATION & UPDATE
