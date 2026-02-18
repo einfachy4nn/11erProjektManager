@@ -30,7 +30,7 @@ Generiert die best mathematisch gesehene Zuteilung in der Zuteilungstabelle. Geb
 
 ### BEARBEITEN
 
-Hier könnt Ihr die Datenbanken ansehen/bearbeiten. Die "ID" Parts können nicht bearbeitet werden, da diese die Primärschlüssel der Datenbanken sind. Die Zuweisungstabelle kann zusätzlich auch nicht bearbeitet werden, Änderungen aus der Schüler-/Gruppenliste wird 
+Die Datenbankdatei muss an sich nicht bedient werden, deswegen könnt Ihr hier die Datenbanken ansehen/bearbeiten. Die "ID" Parts können nicht bearbeitet werden, da diese die Primärschlüssel der Datenbanken sind. Die Zuweisungstabelle kann zusätzlich auch nicht bearbeitet werden, Änderungen aus der Schüler-/Gruppenliste wird 
 allerdings automatisch übernommen. Um die Tabellen nach Bearbeitungen zu aktualisieren kann der "Reload" Button verwendet werden. Um die Zuweisungen selber zu ändern ist es also notwendig sie manuell in einer PDF/CSV Datei zu ändern. Zum Sortieren drückt auf die
 Kategorie, die sortiert werden soll. Beim Exportieren wird die aktuelle Sortierung verwendet. Um die exportierte CSV in Excel zu öffnen, folgt gerne dieser Anleitung: https://www.hesa.ac.uk/support/user-guides/import-csv. Es können theoretisch auch Online-Converter
 verwendet werden, beachtet dabei, dass dabei die Datenbank mit Daten an den Anbieter und eventuell auch an Dritte weitergegeben werden.
