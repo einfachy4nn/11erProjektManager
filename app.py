@@ -603,7 +603,7 @@ class App(tk.Tk):
         )
         help_menu.add_command(
             label="Dokumentation",
-            command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjekt_Gruppenfindung/new/master?filename=README.md")
+            command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjekt_Gruppenfindung/blob/master/README.md")
         )
         help_menu.add_command(
             label="Support",
