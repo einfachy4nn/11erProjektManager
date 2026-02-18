@@ -1,6 +1,6 @@
 VERSION = "0.1"
 OWNER = "einfachy4nn"
-REPO = "11erProjekt_Gruppenfindung"
+REPO = "11erProjektManager"
 
 import webbrowser
 import tkinter as tk
@@ -132,7 +132,7 @@ def help_window():
         top,
         text="E-Mail schreiben.",
         width=20,
-        command=lambda: webbrowser.open("mailto:yann@peroche.de?subject=11erProjekt%20Gruppenfindung%20Hilfe")
+        command=lambda: webbrowser.open("mailto:yann@peroche.de?subject=11erProjektManager%20Hilfe")
     )
     button1.pack(pady=5)
 
@@ -147,7 +147,7 @@ def help_window():
         top,
         text="Auf GitHub melden.",
         width=20,
-        command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjekt_Gruppenfindung/issues")
+        command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjektManager/issues")
     )
     button2.pack()
 
@@ -603,7 +603,7 @@ class App(tk.Tk):
         )
         help_menu.add_command(
             label="Dokumentation",
-            command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjekt_Gruppenfindung/blob/master/README.md")
+            command=lambda: webbrowser.open("https://github.com/einfachy4nn/11erProjektManager/blob/master/README.md")
         )
         help_menu.add_command(
             label="Support",
